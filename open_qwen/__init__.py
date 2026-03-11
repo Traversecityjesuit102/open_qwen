@@ -1,4 +1,3 @@
-"""Public API for the open_qwen package."""
 
 from open_qwen.main import (  # noqa: F401
     GatedAttention,
