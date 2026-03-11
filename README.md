@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/Built%20with-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
     </picture>
   </a>
-  <a href="https://github.com/kyegomez/Open-Olmo/stargazers">
+  <a href="https://github.com/kyegomez/open_qwen/stargazers">
     <picture>
       <source srcset="https://img.shields.io/github/stars/kyegomez/Open-Olmo?style=for-the-badge&color=FFD700" media="(prefers-color-scheme: dark)">
       <img src="https://img.shields.io/github/stars/kyegomez/Open-Olmo?style=for-the-badge&color=FFD700" alt="GitHub Stars">
