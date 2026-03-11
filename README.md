@@ -1,6 +1,4 @@
-# open_qwen_3_5
-
-## Abstract
+# open_qwen
 
 `open_qwen_3_5` is a non-official, research-oriented PyTorch implementation of a Qwen 3.5–style hybrid multimodal language model. In the absence of a publicly available peer-reviewed paper or official reference code (at the time of writing), this repository reconstructs the architecture and hyperparameters from publicly available model metadata. The implementation is intended for inspection, ablations, and educational use rather than as a drop-in reproduction of an official release.
 
